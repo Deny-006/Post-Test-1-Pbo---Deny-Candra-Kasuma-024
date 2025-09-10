@@ -1,4 +1,5 @@
 # Post-Test-1-Pbo-Deny-Candra-Kasuma-024
+Deny Candra Kasuma | Sistem Informasi A | 2409116024
 
 ## Deskripsi
 Program ini adalah aplikasi sederhana untuk mengelola reservasi lapangan mini soccer. Data reservasi disimpan dalam ArrayList dengan isi berupa nama pemesan, tanggal, jam, dan lapangan. Pengguna dapat memilih menu utama yang berisi lima opsi: menambah reservasi, melihat daftar reservasi, mengubah data reservasi, menghapus reservasi, dan keluar dari program.
