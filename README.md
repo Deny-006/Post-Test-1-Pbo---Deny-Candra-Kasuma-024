@@ -1,4 +1,4 @@
-# Post-Test-1-Pbo-eny-Candra-Kasuma-024
+# Post-Test-1-Pbo-Deny-Candra-Kasuma-024
 
 ## Deskripsi
 Program ini adalah aplikasi sederhana untuk mengelola reservasi lapangan mini soccer. Data reservasi disimpan dalam ArrayList dengan isi berupa nama pemesan, tanggal, jam, dan lapangan. Pengguna dapat memilih menu utama yang berisi lima opsi: menambah reservasi, melihat daftar reservasi, mengubah data reservasi, menghapus reservasi, dan keluar dari program.
