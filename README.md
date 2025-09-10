@@ -19,6 +19,7 @@ Jika pengguna salah memasukkan angka, maka akan muncul pesan “Pilihan tidak va
 <img width="449" height="232" alt="image" src="https://github.com/user-attachments/assets/6532fb16-56d7-4c7b-a6ef-a2bbb93fceb9" />
 
 Ketika memilih menu Tambah Reservasi(1), pengguna diminta mengisi data seperti nama, tanggal, jam, dan lapangan. Setelah data dimasukkan, program akan menyimpan reservasi tersebut dan menampilkan pesan “Reservasi berhasil ditambahkan!”.
+
 <img width="450" height="229" alt="image" src="https://github.com/user-attachments/assets/7a7df4d6-7a3d-4409-983f-92756e213d72" />
 
 
